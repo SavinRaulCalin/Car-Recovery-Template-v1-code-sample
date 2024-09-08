@@ -74,7 +74,7 @@
 
 Raul Savin
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webdevraul.md@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://md.linkedin.com/in/webdevraul)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webdevraul.md@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-savin)
 
 Project Link: [https://car-recovery-template-v1.vercel.app](https://car-recovery-template-v1.vercel.app)
 
